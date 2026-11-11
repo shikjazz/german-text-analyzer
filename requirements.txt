@@ -1,0 +1,6 @@
+spacy>=3.5,<4.0
+transformers>=4.30,<5.0
+torch>=2.0
+nltk>=3.8
+click>=8.0
+rich>=13.0
